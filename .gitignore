@@ -1,0 +1,7 @@
+# Ignore node_modules and Python cache
+frontend/node_modules/
+backend/__pycache__/
+backend/static/user_data/
+.env
+*.pyc
+.DS_Store
